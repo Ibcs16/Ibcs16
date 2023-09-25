@@ -40,3 +40,10 @@
 [![My Crypto Music Space](https://img.shields.io/badge/-🎧%20My%20Crypto%20Music%20Space-000)](https://4k.com)
 
 
+### Talks/Tutorials
+
+- UI/UX for all (Web Accessibilty) - [Watch](https://www.youtube.com/watch?v=X3ohA-5WNGk&t=4528s)
+- Web Performance - [Watch](https://www.youtube.com/live/L0ri62QgpxM?si=UN1VGjTss7ejgTmo&t=291)
+- JS fundamentals - [Watch](https://www.youtube.com/live/PNLidGdtGuY?si=l3iRnWE6MIeYH9WX&t=348)
+- Blockchain with JavaScript - [Watch](https://www.youtube.com/live/WxsnmkTodh4?si=U0aVFYhd1sc51QU8&t=233)
+- React Native - [Watch](https://www.youtube.com/live/Q_O3PJ9qkGM?si=opiz_atA370TvNQY&t=323)
